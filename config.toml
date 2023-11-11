@@ -13,6 +13,8 @@ theme = "adritian"
   link = "css/rad-icons.css"
   [[params.plugins.css]]
   link = "css/custom.css"
+  [[params.plugins.css]]
+  link = "css/nikash.css"
 
   # JS Plugins
   [[params.plugins.js]]
@@ -65,8 +67,8 @@ theme = "adritian"
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
+    text1 = "Nikash"
+    text2 = "Narendra"
 
   [params.footer]
       copyright = "© Raditian. All rights reserved."

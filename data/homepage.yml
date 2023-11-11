@@ -1,9 +1,9 @@
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Andreas."
-  subtitle: "Front-End Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  title: "Hello, I’m Nikash."
+  subtitle: "Engineering Leader"
+  description: "I work at <a target='_blank' href='https://evernorth.com/'>Evernorth</a>, the Health Services division of <a target='_blank' href='https://cigna.com/'>Cigna</a>. Quick learning software developer with skills across the spectrum ranging from design to deployment."
   image:
     x: "img/nikash.jpg"
     _2x: "img/nikash.jpg"

@@ -2,7 +2,8 @@
 showcase:
   enable: true
   title: "Hello, I’m Nikash."
-  subtitle: "Engineering Leader"
+  subtitle: "Software Engineering Leader"
+  # TODO: Update
   description: "I work at <a target='_blank' href='https://evernorth.com/'>Evernorth</a>, the Health Services division of <a target='_blank' href='https://cigna.com/'>Cigna</a>. Quick learning software developer with skills across the spectrum ranging from design to deployment."
   image:
     x: "img/nikash.jpg"
@@ -13,43 +14,23 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "#contact"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com/in/nikashn"
 
     - icon: "github"
-      URL: "https://github.com/radity"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/radity"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+      URL: "https://github.com/Nikash"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://www.facebook.com/nikash.n"
 
 # about
 about:
   enable: true
   title: "Who am I?"
+  # TODO: Update
   content: '<p class="lead">
     I am back, after a few days of vacationing with family. Weather was awesome, the beach was
     full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
@@ -63,7 +44,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/in/nikashn"
   image:
     x: "img/nikash.jpg"
     _2x: "img/nikash.jpg"
@@ -73,19 +54,20 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "Cornell University"
+      year: "2013-2014"
+      degree: "Master of Engineering, Computer Science"
 
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "RV College of Engineering"
+      year: "2008-2012"
+      degree: "Bachelor of Engineering, Information Science"
 
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  # TODO: Update
+  description: "Over 10+ years of experience working with several companies. I design & develop digital products to help businesses and improve people's lives."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
